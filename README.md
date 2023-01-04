@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Davi Bicalho da Silva, sou doutorando em Física Computacional pela UFMG!
+## Olá!! Meu nome é Davi Bicalho da Silva, sou doutorando em Física Computacional pela UFMG
 
 <div align="center">
   <a href="https://github.com/DaviphysicUFMG">
@@ -18,15 +18,15 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-   
+
 </div>
 
 ##
 
-<div> 
+<div>
   <a href="https://www.youtube.com/channel/UCb9bZ_f0tOSdHoPcBDYAEZQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/davi.bicalho.fis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<!---
+  <!---
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   -->
   <a href = "mailto:davi.icex@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
