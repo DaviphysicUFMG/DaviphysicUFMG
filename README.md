@@ -4,11 +4,17 @@
   <a href="https://github.com/DaviphysicUFMG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviphysicUFMG&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviphysicUFMG&layout=compact&langs_count=7&theme=synthwave"/>
+  
+  <a href="https://www.linkedin.com/in/davi-bicalho-silva-651884190/">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviphysicUFMG&theme=dark"/>
+</a>
+    
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
+  
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,4 +37,10 @@
   -->
   <a href = "mailto:davi.icex@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-bicalho-silva-651884190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
+<div align="center">
+  
+![Analises](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviphysicUFMG&theme=vue)
+  
 </div>
