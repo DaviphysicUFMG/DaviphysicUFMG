@@ -6,7 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviphysicUFMG&layout=compact&langs_count=7&theme=synthwave"/>
   
   <a href="https://www.linkedin.com/in/davi-bicalho-silva-651884190/">
+  <!---
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaviphysicUFMG&theme=dark"/>
+  -->
 </a>
     
 </div>
