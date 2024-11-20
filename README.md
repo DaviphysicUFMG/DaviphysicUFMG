@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Davi Bicalho da Silva, sou doutorando em Física Computacional pela UFMG
+## Olá!! Meu nome é Davi Bicalho, sou graduando em Análise e Desenvolvimento de Sistemas pela PUC Minas e doutorando em Física Computacional pela UFMG
 
 <div align="center">
   <a href="https://github.com/DaviphysicUFMG">
