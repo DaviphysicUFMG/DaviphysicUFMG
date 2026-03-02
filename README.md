@@ -15,7 +15,7 @@ Um desenvolvedor apaixonado por resolver problemas complexos combinando ciência
     <td width="50%">
       <h3>⚡ Além do Código</h3>
       <ul>
-        <li>🎸 <b>Música:</b> Toco guitarra, contra-baixo e biolão. A trilha sonora vai de Grateful Dead, Pink Floyd, Joe Cocker até Dark Psycode, Fullon Groove, Forest.</li>
+        <li>🎸 <b>Música:</b> Toco guitarra, contra-baixo e violão. A trilha sonora vai de Grateful Dead, Pink Floyd, Joe Cocker até Dark Psycore, Fullon Groove, Forest.</li>
         <li>🎮 <b>Games:</b> Brinco um pouco no Satisfactory, BF1/BF5, Diablo, e por aí vai.</li>
       </ul>
     </td>
